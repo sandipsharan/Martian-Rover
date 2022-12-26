@@ -1,9 +1,5 @@
 # ENPM662 - Project 2  <br /> Modeling and Simulation of Martian Rover
 
-## Team Members: 
-1. Sandip Sharan Senthil Kumar - 119340196
-2. Jayasuriya Suresh - 118509426
-
 ## 1. Project Goals
 
 1. Build a martian rover model on SolidWorks and export it as URDF.
