@@ -26,9 +26,9 @@ $ sudo apt-get install python3
 
 ## 3. Setting up the package
 
-1. Download the folder Sandip26_Project2<br />
+1. Download all the files by cloning it to your local computer or download the whole file as zip<br />
 
-2. When you unzip the file, you will see a main folder named Sandip26_Project2, which contains subfolders such as Package, Assembly, and Report.<br />
+2. When you unzip the file, you will see folders such as Package, Assembly, and Report.<br />
 
 3. Inside the package is the ROS package which is required to run the rover & the package is named as mars_rover_v8<br />
 
