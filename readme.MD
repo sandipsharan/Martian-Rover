@@ -1,4 +1,4 @@
-# ENPM662 - Project 2  <br /> Modeling and Simulation of Martian Rover
+#Modeling and Simulation of Martian Rover
 
 ## 1. Project Goals
 
